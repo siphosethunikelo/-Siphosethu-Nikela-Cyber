@@ -14,7 +14,7 @@ My journey in software development  has led me to develop a passion for cybersec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/siphosethunikelo/Detection-Lab">Detection Lab</a>
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         |  <a href="https://google.com">Detection Lab</a>
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -57,5 +57,5 @@ My journey in software development  has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/siphosethunikelo/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
